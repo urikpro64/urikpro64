@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋 Hi, I'm Vachirakorn - @urikpro64
 
-<!--
-**urikpro64/urikpro64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋 About me
+- 🏩 I'm studying at **Khon Kaen University (KKU)**. Faculty of Collage of Computing in **Computer Science**.
 
-Here are some ideas to get you started:
+Fueled by a passion for software development, I'm a computer science student constantly exploring the frontiers of technology to build the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 My Skills
+- **📚 Language:** Python, TypeScript / JavaScript, Java, SQL, HTML / CSS  
+- **📄 Web Devolopment:** NextJs, React, Svelte, SpringBoot, Django, Flask, TailwindCSS
+- **📦 Database:** MySQL, MongoDB, Firebase  
+
+[![My Skills](https://skillicons.dev/icons?i=py,ts,js,java,mysql,html,css,react,svelte,spring,django,flask,tailwind,mongo,firebase)](https://skillicons.dev)
